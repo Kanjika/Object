@@ -19,3 +19,7 @@ canvas{
     border-radius: 10px;
     
 }
+
+button{
+    float: right;
+}
